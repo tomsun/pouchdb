@@ -10,7 +10,7 @@
 TMP=./tmp
 COUCH_URI_FILE=$TMP/couch.uri
 
-# Install PouchDB dependancies
+# Install PouchDB dependencies
 npm install
 
 # Provision a CouchDB instance just for this test
